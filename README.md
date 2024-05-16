@@ -15,4 +15,4 @@ list of candidates receiving votes
 total number of votes for each candidate
 the winner of the election
 
-I worked with 
+
